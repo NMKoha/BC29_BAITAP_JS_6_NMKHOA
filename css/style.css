@@ -1,0 +1,18 @@
+#divInfo2 {
+    background-color: pink;
+    color: brown;
+    border-radius: 2px;
+    padding: 5px 50px;
+}
+
+#divInfo3 {
+    background-color: rgba(175, 247, 175, 0.818);
+    color: green;
+    border-radius: 2px;
+    padding: 5px 50px;
+}
+
+#baitap4 .card-body {
+    background-color: rgba(32, 32, 32, 0.866);
+    color: white;
+}
